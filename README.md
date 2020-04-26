@@ -1,2 +1,2 @@
 # HTML-academy
-Practice with HTML/CSS and JavaScript
+Practice with HTML/CSS 
